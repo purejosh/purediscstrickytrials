@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "purediscstrickytrials:music_disc_creator"
+    },
+    {
+      "item": "minecraft:jukebox"
+    }
+  ],
+  "result": {
+    "item": "purediscstrickytrials:music_disc_creator_music_box",
+    "count": 1
+  }
+}

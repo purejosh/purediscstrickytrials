@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Custom license"
+
+[[mods]]
+modId="purediscstrickytrials"
+version="1.0.0"
+displayName="Pure Discs - Tricky Trials"
+credits="Made by purejosh"
+displayURL="https://legacy.curseforge.com/minecraft/mc-mods/purediscstrickytrials"
+logoFile="logo.png"
+authors="purejosh"
+description="Adds twelve new songs that were added to the game with the 1.21 Tricky Trials update!"
+
+[[dependencies.purediscstrickytrials]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

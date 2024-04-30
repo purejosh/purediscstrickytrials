@@ -1,0 +1,110 @@
+{
+  "creator": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:lena_raine_-_creator",
+        "stream": true
+      }
+    ]
+  },
+  "creator_music_box": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:lena_raine_-_creator_music_box_version",
+        "stream": true
+      }
+    ]
+  },
+  "deeper": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:lena_raine_-_deeper",
+        "stream": true
+      }
+    ]
+  },
+  "eld_unknown": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:lena_raine_-_eld_unknown",
+        "stream": true
+      }
+    ]
+  },
+  "endless": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:lena_raine_-_endless",
+        "stream": true
+      }
+    ]
+  },
+  "featherfall": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:aaron_cherof_-_featherfall",
+        "stream": true
+      }
+    ]
+  },
+  "komorebi": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:kumi_tanioka_-_komorebi",
+        "stream": true
+      }
+    ]
+  },
+  "pokopoko": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:kumi_tanioka_-_pokopoko",
+        "stream": true
+      }
+    ]
+  },
+  "precipice": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:aaron_cherof_-_precipice",
+        "stream": true
+      }
+    ]
+  },
+  "puzzlebox": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:aaron_cherof_-_puzzlebox",
+        "stream": true
+      }
+    ]
+  },
+  "watcher": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:aaron_cherof_-_watcher",
+        "stream": true
+      }
+    ]
+  },
+  "yakusoku": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purediscstrickytrials:kumi_tanioka_-_yakusoku",
+        "stream": true
+      }
+    ]
+  }
+}
