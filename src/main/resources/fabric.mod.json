@@ -1,34 +1,42 @@
 {
-  "schemaVersion": 1,
-  "id": "purediscstrickytrials",
-  "version": "1.0.0",
-  "name": "Pure Discs - Tricky Trials",
-  "description": "Adds twelve new songs that were added to the game with the 1.21 Tricky Trials update!",
-  "authors": [
-    "purejosh"
-  ],
-  "contact": {
-    "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/purediscstrickytrials",
-    "sources": ""
-  },
-  "license": "Custom license",
-  "icon": "assets/purediscstrickytrials/icon.png",
-  "environment": "*",
-  "entrypoints": {
-    "main": [
-      "net.purejosh.purediscstrickytrials.PurediscstrickytrialsMod"
-    ],
-    "client": [
-      "net.purejosh.purediscstrickytrials.ClientInit"
-    ]
-  },
-  "depends": {
-    "fabricloader": ">=0.14.21",
-    "fabric": "*",
-    "minecraft": "~1.20",
-    "java": ">=17"
-  },
-  "mixins": [
-    "purediscstrickytrials.mixins.json"
-  ]
+	"schemaVersion": 1,
+	"id": "purediscstrickytrials",
+	"version": "2.0.0",
+	"name": "Pure Discs - Tricky Trials",
+	"description": "Adds nine new discs from songs that were added in the 1.21 Tricky Trials update!",
+	"authors": [
+		"purejosh"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/purediscstrickytrials",
+		"sources": "https://github.com/purejosh/purediscstrickytrials",
+		"issues": "https://github.com/purejosh/purediscstrickytrials/issues"
+	},
+	"license": "MIT-R-NR",
+	"icon": "assets/purediscstrickytrials/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.purejosh.purediscstrickytrials.PureDiscsTrickyTrials"
+		],
+		"client": [
+			"net.purejosh.purediscstrickytrials.PureDiscsTrickyTrialsClient"
+		]
+	},
+	"mixins": [
+		"purediscstrickytrials.mixins.json",
+		{
+			"config": "purediscstrickytrials.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
 }

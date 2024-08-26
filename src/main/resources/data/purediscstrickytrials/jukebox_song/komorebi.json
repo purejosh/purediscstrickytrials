@@ -1,0 +1,10 @@
+{
+    "comparator_output": 5,
+    "description": {
+        "translate": "item.purediscstrickytrials.music_disc_komorebi.desc"
+    },
+    "length_in_seconds": 281,
+    "sound_event": {
+      "sound_id": "purediscstrickytrials:music_disc.komorebi"
+    }
+}

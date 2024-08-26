@@ -1,0 +1,10 @@
+{
+    "comparator_output": 7,
+    "description": {
+        "translate": "item.purediscstrickytrials.music_disc_puzzlebox.desc"
+    },
+    "length_in_seconds": 295,
+    "sound_event": {
+      "sound_id": "purediscstrickytrials:music_disc.puzzlebox"
+    }
+}

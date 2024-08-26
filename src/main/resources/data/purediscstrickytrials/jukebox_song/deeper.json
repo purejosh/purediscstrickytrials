@@ -1,0 +1,10 @@
+{
+    "comparator_output": 1,
+    "description": {
+        "translate": "item.purediscstrickytrials.music_disc_deeper.desc"
+    },
+    "length_in_seconds": 299,
+    "sound_event": {
+      "sound_id": "purediscstrickytrials:music_disc.deeper"
+    }
+}

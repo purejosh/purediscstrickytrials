@@ -1,0 +1,10 @@
+{
+    "comparator_output": 3,
+    "description": {
+        "translate": "item.purediscstrickytrials.music_disc_endless.desc"
+    },
+    "length_in_seconds": 396,
+    "sound_event": {
+      "sound_id": "purediscstrickytrials:music_disc.endless"
+    }
+}

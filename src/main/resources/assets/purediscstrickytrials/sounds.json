@@ -1,109 +1,64 @@
 {
-  "creator": {
-    "category": "record",
+  "music_disc.deeper": {
     "sounds": [
       {
-        "name": "purediscstrickytrials:lena_raine_-_creator",
-        "stream": true
+        "name": "purediscstrickytrials:deeper"
       }
     ]
   },
-  "creator_music_box": {
-    "category": "record",
+  "music_disc.eld_unknown": {
     "sounds": [
       {
-        "name": "purediscstrickytrials:lena_raine_-_creator_music_box_version",
-        "stream": true
+        "name": "purediscstrickytrials:eld_unknown"
       }
     ]
   },
-  "deeper": {
-    "category": "record",
+  "music_disc.endless": {
     "sounds": [
       {
-        "name": "purediscstrickytrials:lena_raine_-_deeper",
-        "stream": true
+        "name": "purediscstrickytrials:endless"
       }
     ]
   },
-  "eld_unknown": {
-    "category": "record",
+  "music_disc.featherfall": {
     "sounds": [
       {
-        "name": "purediscstrickytrials:lena_raine_-_eld_unknown",
-        "stream": true
+        "name": "purediscstrickytrials:featherfall"
       }
     ]
   },
-  "endless": {
-    "category": "record",
+  "music_disc.komorebi": {
     "sounds": [
       {
-        "name": "purediscstrickytrials:lena_raine_-_endless",
-        "stream": true
+        "name": "purediscstrickytrials:komorebi"
       }
     ]
   },
-  "featherfall": {
-    "category": "record",
+  "music_disc.pokopoko": {
     "sounds": [
       {
-        "name": "purediscstrickytrials:aaron_cherof_-_featherfall",
-        "stream": true
+        "name": "purediscstrickytrials:pokopoko"
       }
     ]
   },
-  "komorebi": {
-    "category": "record",
+  "music_disc.puzzlebox": {
     "sounds": [
       {
-        "name": "purediscstrickytrials:kumi_tanioka_-_komorebi",
-        "stream": true
+        "name": "purediscstrickytrials:puzzlebox"
       }
     ]
   },
-  "pokopoko": {
-    "category": "record",
+  "music_disc.watcher": {
     "sounds": [
       {
-        "name": "purediscstrickytrials:kumi_tanioka_-_pokopoko",
-        "stream": true
+        "name": "purediscstrickytrials:watcher"
       }
     ]
   },
-  "precipice": {
-    "category": "record",
+  "music_disc.yakusoku": {
     "sounds": [
       {
-        "name": "purediscstrickytrials:aaron_cherof_-_precipice",
-        "stream": true
-      }
-    ]
-  },
-  "puzzlebox": {
-    "category": "record",
-    "sounds": [
-      {
-        "name": "purediscstrickytrials:aaron_cherof_-_puzzlebox",
-        "stream": true
-      }
-    ]
-  },
-  "watcher": {
-    "category": "record",
-    "sounds": [
-      {
-        "name": "purediscstrickytrials:aaron_cherof_-_watcher",
-        "stream": true
-      }
-    ]
-  },
-  "yakusoku": {
-    "category": "record",
-    "sounds": [
-      {
-        "name": "purediscstrickytrials:kumi_tanioka_-_yakusoku",
-        "stream": true
+        "name": "purediscstrickytrials:yakusoku"
       }
     ]
   }

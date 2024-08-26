@@ -1,0 +1,10 @@
+{
+    "comparator_output": 2,
+    "description": {
+        "translate": "item.purediscstrickytrials.music_disc_eld_unknown.desc"
+    },
+    "length_in_seconds": 292,
+    "sound_event": {
+      "sound_id": "purediscstrickytrials:music_disc.eld_unknown"
+    }
+}

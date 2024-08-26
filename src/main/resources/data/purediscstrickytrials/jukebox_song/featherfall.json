@@ -1,0 +1,10 @@
+{
+    "comparator_output": 4,
+    "description": {
+        "translate": "item.purediscstrickytrials.music_disc_featherfall.desc"
+    },
+    "length_in_seconds": 339,
+    "sound_event": {
+      "sound_id": "purediscstrickytrials:music_disc.featherfall"
+    }
+}
